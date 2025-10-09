@@ -1,7 +1,7 @@
 <h1 align="center">📸 SEAMLESLY NATURAL</h1>
 
 <p align="center">
-  <img src="first.JPG" alt="SEAMLESSLY NATURAL" width="600">
+  <img src="first.JPG" alt="SEAMLESSLY NATURAL" width="1000">
 </p>
 <p align="center">
   <em>An advanced image stitching algorithm for high-quality panoramic images</em>
